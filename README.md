@@ -1,4 +1,4 @@
-#Twitter Image Reader
+#Twitter Image Predictor
 
 #Project Background
 
